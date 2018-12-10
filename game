@@ -1,0 +1,7 @@
+EPIC GAMES ATHENA FILES
+DEVELOPER ACCESS ONLY
+
+begin here-----
+if player enter game = true (then) = show "main-loading-season-6"
+when player showed "main-loading-season-6" then let play = true
+end
